@@ -30,7 +30,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>ToDo App</h1>
+                <h1>TodoMatic</h1>
             </header>
             <TodoForm
                 inputText={inputText}
